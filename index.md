@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Corporate Tax Loopholes
 ---
 
