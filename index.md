@@ -10,7 +10,7 @@ page.title: Corporate Tax Loopholes
 
 ### Tell Your Legislators to Support the Bill
 1. Find out who your state representative is and how to reach them.
- * [Click here](http://www.elections.il.gov/districtlocator/addressfinder.aspx), enter your address, and click "Find Address"
+ * <a href="http://www.elections.il.gov/districtlocator/addressfinder.aspx" target="_blank">Click here</a>, enter your address, and click "Find Address"
  * If it found you, click "Confirm Address." Your representative's name will appear.
 2. Call their office and ask for their support.
  * Dial the office number listed. Most likely, a staffer will pick up.
@@ -31,10 +31,10 @@ Share this link on social media, and email it to your people. No explanation nec
 ### Donate to the Bill's Sponsors
 Big corporate lobbyists are going to fight hard against this bill. Support the people who have the courage to stand up to them.
 
-1. [Click here](http://ilga.gov/legislation/billstatus.asp?DocNum=4004&GAID=14&GA=100&DocTypeID=HB&LegID=106319&SessionID=91) to see the list of bill sponsors.
+1. <a href="http://ilga.gov/legislation/billstatus.asp?DocNum=4004&GAID=14&GA=100&DocTypeID=HB&LegID=106319&SessionID=91" target="_blank">Click here</a> to see the list of bill sponsors.
 2. If your rep's name is on there, thank them! Google their name and find their campaign website - it should have a big "Donate" or "Contribute" button on it somewhere.
 3. Give $1, $5, $10, or whatever you can. And leave a note telling them you're grateful for their support for HB4004.
 
 
 ### Sign Up for Email Updates
-State Rep. Will Guzzardi is the bill's sponsor, and he'll keep you up to date about the progress of HB4004 as well as other important progressive legislation in Springfield. Visit http://www.willguzzardi.com, and in the "Participate" box, enter your email address and click "Join Us!"
+State Rep. Will Guzzardi is the bill's sponsor, and he'll keep you up to date about the progress of HB4004 as well as other important progressive legislation in Springfield. Visit <a href="http://www.willguzzardi.com" target="_blank">www.willguzzardi.com</a>, and in the "Participate" box, enter your email address and click "Join Us!"
