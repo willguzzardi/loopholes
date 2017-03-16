@@ -37,4 +37,4 @@ Big corporate lobbyists are going to fight hard against this bill. Support the p
 
 
 ### Sign Up for Email Updates
-State Rep. Will Guzzardi is the bill's sponsor, and he'll keep you up to date about the progress of HB4004 as well as other important progressive legislation in Springfield. Visit www.willguzzardi.com, and in the "Participate" box, enter your email address and click "Join Us!"
+State Rep. Will Guzzardi is the bill's sponsor, and he'll keep you up to date about the progress of HB4004 as well as other important progressive legislation in Springfield. Visit http://www.willguzzardi.com, and in the "Participate" box, enter your email address and click "Join Us!"
