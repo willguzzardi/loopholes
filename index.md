@@ -24,7 +24,7 @@ title: Corporate Tax Loopholes
 ### Get Your Friends in on the Game
 Share this link on social media, and email it to your people. No explanation necessary. But here's some sample text you might use:
 
-* Twitter: Tell our state legislators to stop letting big corporations steal our tax dollars! [Tweet it now!](https://twitter.com/intent/tweet?url=http://www.willguzzardi.com/loopholes)
+* Twitter ([Tweet it now!](https://twitter.com/intent/tweet?text=Tell our state legislators to stop letting big corporations steal our tax dollars!&url=http://www.willguzzardi.com/loopholes)): Tell our state legislators to stop letting big corporations steal our tax dollars! http://www.willguzzardi.com/loopholes
 * Facebook: Illinois is in a massive budget crisis. Instead of cutting services to people in need, or raising taxes on everyone, how about closing $1 billion in loopholes that let big corporations game the system? Those dollars belong to us. Let's take them back. www.willguzzardi.com/loopholes
 
 
