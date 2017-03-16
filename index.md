@@ -25,7 +25,7 @@ title: Corporate Tax Loopholes
 Share this link on social media, and email it to your people. No explanation necessary. But here's some sample text you might use:
 
 * Twitter (<a href="https://twitter.com/intent/tweet?text=Tell%20our%20state%20legislators%20to%20stop%20letting%20big%20corporations%20steal%20our%20tax%20dollars!&url=http://www.willguzzardi.com/loopholes" target="_blank">Tweet it now!</a>): Tell our state legislators to stop letting big corporations steal our tax dollars! http://www.willguzzardi.com/loopholes
-* Facebook ([Post it now!](http://facebook.com/sharer.php?u=http://www.willguzzardi.com/loopholes&t=Illinois%20is%20in%20a%20massive%20budget%20crisis.%20Instead%20of%20cutting%20services%20to%20people%20in%20need%2C%20or%20raising%20taxes%20on%20everyone%2C%20how%20about%20closing%20%241%20billion%20in%20loopholes%20that%20let%20big%20corporations%20game%20the%20system%3F%20Those%20dollars%20belong%20to%20us.%20Let%27s%20take%20them%20back.)): Illinois is in a massive budget crisis. Instead of cutting services to people in need, or raising taxes on everyone, how about closing $1 billion in loopholes that let big corporations game the system? Those dollars belong to us. Let's take them back. www.willguzzardi.com/loopholes
+* Facebook (<a href="http://facebook.com/sharer.php?u=http://www.willguzzardi.com/loopholes" target="_blank">Post it now!</a>): Illinois is in a massive budget crisis. Instead of cutting services to people in need, or raising taxes on everyone, how about closing $1 billion in loopholes that let big corporations game the system? Those dollars belong to us. Let's take them back. www.willguzzardi.com/loopholes
 
 
 ### Donate to the Bill's Sponsors
