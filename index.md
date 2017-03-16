@@ -1,5 +1,5 @@
 ---
-page.title: Corporate Tax Loopholes
+title: Corporate Tax Loopholes
 ---
 
 # HB4004: Close Corporate Tax Loopholes
