@@ -5,7 +5,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hx-V069fl7E" frameborder="0" allowfullscreen></iframe>
 
-<a href='https://d3n8a8pro7vhmx.cloudfront.net/willguzzardi/pages/219/attachments/original/1489721154/HB4004.pdf'>Click here to download a fact sheet about the tax loopholes in HB4004.</a>
+<a href='https://d3n8a8pro7vhmx.cloudfront.net/willguzzardi/pages/219/attachments/original/1489721154/HB4004.pdf' target="_blank">Click here to download a fact sheet about the tax loopholes in HB4004.</a>
 
 ## _How can I help?_
 
