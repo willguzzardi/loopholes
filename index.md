@@ -33,7 +33,7 @@ Share this link on social media, and email it to your people. No explanation nec
 Big corporate lobbyists are going to fight hard against this bill. Support the people who have the courage to stand up to them.
 
 1. <a href="http://ilga.gov/legislation/billstatus.asp?DocNum=4004&GAID=14&GA=100&DocTypeID=HB&LegID=106319&SessionID=91" target="_blank">Click here</a> to see the list of bill sponsors.
-2. If your rep's name is on there, thank them! Google their name and find their campaign website - it should have a big "Donate" or "Contribute" button on it somewhere.
+2. If your rep's name is on there, thank them! Google their name and find their campaign website — it should have a big "Donate" or "Contribute" button on it somewhere.
 3. Give $1, $5, $10, or whatever you can. And leave a note telling them you're grateful for their support for HB4004.
 
 
